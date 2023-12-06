@@ -1,23 +1,15 @@
 {
-  "name": "backend-node",
+  "name": "e-commerce",
   "version": "1.0.0",
-  "description": "",
+  "description": "this is e-commerce backend",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
     "dev": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/abidrazaa/backend-node.git"
-  },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/abidrazaa/backend-node/issues"
-  },
-  "homepage": "https://github.com/abidrazaa/backend-node#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.20.0",
